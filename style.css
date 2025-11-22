@@ -1,0 +1,71 @@
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+background-color: white;
+}
+
+header {
+background-color: green;
+color: white;
+padding: 20px;
+text-align: center;
+}
+
+nav {
+background-color: #0e630e;
+padding: 10px;
+text-align: center;
+}
+
+nav a {
+color: white;
+margin: 0 15px;
+text-decoration: none;
+font-size: 17px;
+}
+
+.hero {
+text-align: center;
+padding: 20px;
+}
+
+.hero img {
+width: 300px;
+border-radius: 10px;
+}
+
+.menu-box {
+background-color: #e8fbe8;
+padding: 20px;
+}
+
+.menu-box h2 {
+color: green;
+text-align: center;
+}
+
+.menu-box ul {
+list-style: none;
+padding: 0;
+}
+
+.menu-box li {
+padding: 10px;
+background: white;
+margin: 8px 0;
+border-left: 5px solid green;
+}
+
+.button {
+display: block;
+width: 160px;
+margin: 20px auto;
+background-color: green;
+color: white;
+padding: 12px;
+text-align: center;
+text-decoration: none;
+border-radius: 6px;
+font-size: 18px;
+}
